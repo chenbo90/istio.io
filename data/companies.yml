@@ -289,7 +289,7 @@ integrations:
     url: "https://www.asiainfo.com/en_us/product_aisware_aifPaaS.html"
     description: "CSFMesh is a service mesh product developed by AsiaInfo Technologies. It features a graphical configuration interface, which enhances operational efficiency."
     details:
-      - "CSFMesh is a dashboard based on istio, which provides functions including cluster management, namespace management and traffic management. Users can easily configure their own traffic management policies and deliver the configuration to the kubernetes cluster. At the same time, we also implemented interface-level service governance and strategies for intercepting traffic on demand."
+      - "CSFMesh is a dashboard based on Istio, which provides functions including cluster management, namespace management, and traffic management. Users can easily configure their own traffic management policies and apply the configuration to the Kubernetes cluster. CSFMesh also provides interface-level service governance and strategies for intercepting traffic on demand."
 
 pro_services:
   - name: "CloudZone"
